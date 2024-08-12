@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DharshanKumarJG
+- 👋 Hi, I’m @DharshanKumarJG Looking for Java Developer Entry level Position
 - 👀 I’m interested in New Technologies and eager enter into IT Field
-- 🌱 I’m currently learning Java Developer
+- 🌱 I’m learning new Technologies
 - 💞️ I’m looking to collaborate on IT Field
 - 📫 How to reach me dharshakumar.jg@gmail.com
 - 😄 Pronouns: ...
